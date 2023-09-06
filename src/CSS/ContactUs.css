@@ -1,0 +1,54 @@
+.contactMainDiv{
+    display: flex;
+}
+
+.contactImage{
+    width: 675px;
+    height: 600px;
+}
+
+.contactFormDiv{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.contactHeader{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.inputField{
+    padding-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    width: 550px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.textArea{
+    padding-top: 10px;
+    margin-bottom: 20px;
+    width: 550px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.contactButton{
+    background-color:black;
+    height: 38px;
+    width: 150px;
+    cursor: pointer;
+    border: none;
+    border-radius: 0;
+    font-family: 'Verdana';
+    font-size: 15px;
+    color: white;
+}
+
+.contactButton:hover{
+    background-color: dimgrey;
+    color: black;
+}

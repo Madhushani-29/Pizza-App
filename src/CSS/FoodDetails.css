@@ -1,0 +1,52 @@
+.foodDetailsMainDiv{
+ 
+    padding-right: 7px;
+    padding-bottom: 50px;
+    margin-top: 75px;
+    margin-left: 330px;
+    margin-right:330px;
+    margin-bottom: 75px;
+    border-radius: 20px;
+    background: linear-gradient(to bottom right, #c6c2b6 20%, #afb1ae 30%, #e4e8e5 50%);
+}
+
+.pHeading{
+    font-family: 'Helvetica';
+    margin-top: 35px;
+}
+
+.mainHeading{
+    font-size: 40px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    padding-top: 25px;
+}
+
+.foodImage{
+    width: 300px;
+}
+
+.descrDiv{
+    flex-grow: 1;
+    text-align: justify;
+    margin-right: 20px;
+}
+
+.imageDiv , .descrDiv{
+    padding-left: 40px;
+    flex-grow: 1;
+}
+
+.imgDesDiv{
+    display: flex;
+}
+
+.ingredListStyle{
+    padding-left: 80px;
+    padding-bottom: 20px;
+}
+
+.ingrPriceDiv{
+    padding-left: 40px;
+    font-family: 'Helvetica';
+}

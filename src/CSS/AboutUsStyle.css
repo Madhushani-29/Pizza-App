@@ -1,0 +1,29 @@
+.backgroundPizza{
+    width: 1350px;
+}
+
+.para1AboutUs{
+    font-family: 'Helvetica';
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.aboutUsDiv{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;;
+}
+
+.pizzaVineImage{
+    height: 300px;
+    margin-right: 75px;
+}
+
+.para2AboutUs{
+    color: black;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}

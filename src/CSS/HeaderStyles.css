@@ -1,0 +1,23 @@
+.mainDiv{
+    background-color: #f0f0f0;
+    height: 85px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.linkStyle{
+    text-decoration-line: none;
+    color: black;
+    padding: 10px;
+}
+
+.linkDivStyle{
+    width: 500px;
+}
+
+.imageStyle{
+    margin-left: 100px;
+    height: 70px;
+ };

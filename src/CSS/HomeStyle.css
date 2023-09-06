@@ -1,0 +1,46 @@
+.imgStyle{
+    width: 1349px;
+}
+
+.para1{
+    position: absolute;
+    top: 250px; 
+    left: 50px;
+    color: white;
+    font-family: 'Verdana';
+    font-size: 70px;
+}
+
+.para2{
+    position: absolute;
+    top: 400px; 
+    left: 50px;
+    font-size: 30px;
+    font-family: 'Helvetica';
+    color: white;
+}
+
+.button{
+    position: absolute;
+    top: 500px; 
+    left: 50px;
+    background-color:#f0f0f0;
+    height: 38px;
+    width: 150px;
+    cursor: pointer;
+    border: none;
+    border-radius: 0;
+    font-family: 'Verdana';
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.button:hover{
+    background-color: #50382e;
+    color: white;
+}
+
+.darkFont{
+    color:#1f1e19;
+}
+

@@ -1,0 +1,24 @@
+.logoStyle{
+    height: 70px;
+    padding-left: 50px;
+}
+
+.linkedinlogoStyle{
+    height: 70px;
+    padding-left: 45px;
+}
+
+.footerDivStyle{
+    padding-left: 415px;
+}
+
+.para{
+    text-align: center;
+    font-family: 'Helvetica';
+}
+
+.mainDivFooter{
+    padding-top: 20px;
+    height: 160px;
+    background-color: #f0f0f0;
+}
