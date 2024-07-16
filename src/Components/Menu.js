@@ -10,7 +10,7 @@ const Menu = () =>
     const [data, setData]=useState([]);
 
     useEffect(()=>{
-        axios.get('http://localhost:3006/Menu')
+        axios.get('https://pizza-app-omega-bay.vercel.app/Menu')
         .then((response)=>{
             setData(response.data);
         })
