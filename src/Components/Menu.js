@@ -8,6 +8,19 @@ const Menu = () =>
 {
     const navigate=useNavigate();
 
+    //commented the code part to deploy
+    /*const [data, setData]=useState([]);
+
+    useEffect(()=>{
+        axios.get('https://pizza-app-omega-bay.vercel.app/Menu')
+        .then((response)=>{
+            setData(response.data);
+        })
+        .catch((error)=>{
+            console.error(error)
+        })
+    }, []);*/
+
     const Menus=[
         {
             "ïd":1,
